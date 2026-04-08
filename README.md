@@ -1,4 +1,3 @@
-# DBD 281 Project
 # EasyBuy Database Project
 
 ## 📌 Overview
