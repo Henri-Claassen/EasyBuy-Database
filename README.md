@@ -70,7 +70,7 @@ The ERD illustrates:
 
 ### Setup Instructions
 1. Clone this repository using GitHub Desktop:
-   or use bash: git clone https://github.com/Henri-Claassen/SQL-Server-Script.git
+   or use bash: git clone https://github.com/Henri-Claassen/EasyBuy-Database.git
 2. Open SQL Server Management Studio
 3. Run the script in SQL server
 4. Verify tables and sample data using:
